@@ -1,0 +1,25 @@
+{
+  "name": "@react-hooks-khd/use-title",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlom0218/React-Hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "axios"
+  ],
+  "author": "KHD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlom0218/React-Hooks/issues"
+  },
+  "homepage": "https://github.com/nlom0218/React-Hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
